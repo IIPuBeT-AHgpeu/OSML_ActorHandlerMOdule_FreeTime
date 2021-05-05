@@ -8,11 +8,11 @@
 Далее представлены диаграмма важности параметров и диаграмма связи активностей с параметрами.
 ## Связи активностей с параметрами
 
-![relationship]()
+![relationship](https://github.com/IIPuBeT-AHgpeu/OSML_ActorHandlerMOdule_FreeTime/blob/main/Pictures/activityParamRelationship.png)
 
 ## Важность параметров
 
-![parameters]()
+![parameters](https://github.com/IIPuBeT-AHgpeu/OSML_ActorHandlerMOdule_FreeTime/blob/main/Pictures/parameterDiagram.png)
 
 ## Таблица распределения приоритетов
 
